@@ -93,7 +93,8 @@ ParkSense-v1
 
 ### Schematic
 
-[schematic_diagram.pdf](https://github.com/user-attachments/files/29799323/schematic_diagram.pdf)
+<img width="2200" height="1700" alt="schematic_diagram" src="https://github.com/user-attachments/assets/18770dfb-b575-4e0b-9ead-3ed8ae456e4c" />
+
 
 
 ---
